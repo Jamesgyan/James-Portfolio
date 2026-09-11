@@ -1,5 +1,6 @@
 export const profile = {
   name: "James Gyan Prakash H",
+
   roles: [
     "Software Developer",
     "Application Developer",
@@ -8,13 +9,19 @@ export const profile = {
     "React Developer",
     "Android Developer",
   ],
+
   tagline:
     "MSc Data Science graduate crafting AI-powered applications, modern web platforms, Android experiences and data-driven solutions.",
+
   location: "Bengaluru, Karnataka",
+
   email: "james20010724@gmail.com",
+
   phone: "+91 7619246688",
+
   github: "https://github.com/Jamesgyan",
-  linkedin: "www.linkedin.com/in/jamesgyanpakash",
+
+  linkedin: "https://www.linkedin.com/in/jamesgyanpakash",
 };
 
 export const stats = [
